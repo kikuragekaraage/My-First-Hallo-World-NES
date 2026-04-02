@@ -9,6 +9,7 @@ But the nostalgic color palette of the screen gives it a certain charm, and just
 10年以上前から環境準備を進めて、10年前にやっと形になったフルアセンブラで組んだ記念すべきゲームになります。
 当たり判定もなく、行き交う人々を避けて、当たったら自己申告でゲームオーバーになるファミレスのレジ横で売っているようなチープな子供のおもちゃのようなゲームですが、画面の色合いが懐かしく感じるので、眺めているだけでも楽しいです。
 
+<img width="781" height="567" alt="yukikauhito" src="https://github.com/user-attachments/assets/4bc83d21-92d8-4984-9974-6c5cf8207a8c" />
 
 （Controls）
 D-Pad  
@@ -21,6 +22,7 @@ Left: Move left
 People move around in all four directions on the screen. Avoid them by moving up, down, left, and right. There is no collision detection, so please judge hits on your own.
 
 Even if you just leave it running, the nostalgic screen makes it nice as a piece of interior decor.
+
 
 
 ・操作方法
